@@ -10,3 +10,5 @@ git log
 git show
 
 git show @^^
+
+## konflikt 2
