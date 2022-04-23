@@ -68,3 +68,7 @@ git show @^^
 
 ## niepewna zmiana
 
+
+## konflikt 2 zdalnie
+
+
