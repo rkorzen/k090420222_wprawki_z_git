@@ -24,3 +24,4 @@ git show @^^
     >>>>>>> 5566029aa93db9f6d9acc47d3b78a4d06b7e00c0
 ```
 
+## Jak uzywac git stash
